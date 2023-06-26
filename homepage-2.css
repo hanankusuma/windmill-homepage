@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Calistoga&family=Concert+One&family=Limelight&family=Paytone+One&family=Playfair+Display+SC&family=Prompt:ital@1&family=Ysabeau+Infant:wght@300&display=swap');
+body {
+    background-color: #222130; /* Ganti dengan kode warna yang diinginkan */
+  }
+.bg-image {
+    background-image: url('image/cartoon.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  .navbar-brand {
+    font-size: 30px;
+    font-family: 'geologica';
+  }
+  .text-title-1 {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 60px;
+    margin-left: -950px;
+    margin-top: 150px;
+  }
+  .text-title-2 {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 60px;
+    margin-left: -500px;
+  }
+  .caption {
+    margin-left: -500px;
+  }
+  .navbar-brand {
+    font-family: 'Belanosima', sans-serif;
+  }
+  .home {
+    margin-left: 300px;
+    color: white;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+  }
+  .about {
+    color: white;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+  }
+  .contact {
+    color: white;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+  }
+  .account {
+    color: white;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+  }
+  .blog {
+    color: white;
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 20px;
+  }
+  .navbar-brand {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 30px;
+  }
